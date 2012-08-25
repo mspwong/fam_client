@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  title: John Keats Poems
+  price: 15.95
+
+two:
+  title: Will Grayson
+  price: 22.50
